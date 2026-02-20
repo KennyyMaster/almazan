@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm quennie Almazan</h1>
+<h1 align="center">Hi 👋, I'm kennyymaster</h1>
 <h3 align="center">A passionate frontend and backend developer from PH</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennyymaster&label=Profile%20views&color=0e75b6&style=flat" alt="kennyymaster" /> </p>
